@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>7745A4EC-D417-485E-B1BE-598C391EC306</string>
+	<key>IDESourceControlProjectName</key>
+	<string>FlipCard</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>50622374-79C2-44C6-AB09-9E826457CD84</key>
+		<string>https://github.com/fwidget/FlipCard.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>FlipCard.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>50622374-79C2-44C6-AB09-9E826457CD84</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/fwidget/FlipCard.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>50622374-79C2-44C6-AB09-9E826457CD84</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>50622374-79C2-44C6-AB09-9E826457CD84</string>
+			<key>IDESourceControlWCCName</key>
+			<string>FlipCard</string>
+		</dict>
+	</array>
+</dict>
+</plist>
